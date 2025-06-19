@@ -1,1 +1,1 @@
-# This my learning html project 1st
+# This is my learning html project 1st
